@@ -1,4 +1,6 @@
-# plasteac
+# Steampunk teapot raceer
+
+## forked from plasteac
 A 3D-printed robotic dancing teapot
 
 Refer to each subproject for license information.
